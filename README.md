@@ -68,3 +68,7 @@ This is an illustrative rule-based screening approach, not a validated credit-sc
 -    Initial business insights
 -    SQL documentation
 -  Dashboard screenshots
+
+  ## Dashboard Report
+
+[View / Download Power BI Dashboard (PDF)](./loan-default-risk-analysis.pdf)
