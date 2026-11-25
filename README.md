@@ -72,3 +72,17 @@ This is an illustrative rule-based screening approach, not a validated credit-sc
   ## Dashboard Report
 
 [View / Download Power BI Dashboard (PDF)](./loan-default-risk-analysis.pdf)
+
+
+## Dashboard Preview
+
+### Main Dashboard
+![Loan Default Risk Dashboard](./Screenshot%202026-11-25%20160150.png)
+
+### Manual Review Dashboard
+![Manual Review Dashboard](./Screenshot%202026-11-25%20183731.png)
+
+## SQL Analysis
+
+[View SQL Queries](./SQL/loan_analysis.sql)
+
